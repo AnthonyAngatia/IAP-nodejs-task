@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-  </head>
-  <body>
-    <div>
+ <div>
       <span>The link -></span
       ><a href="https://app-studentapi-express.herokuapp.com/">StudentSApi</a>
     </div>
@@ -33,5 +25,3 @@
       <h3>Example of the students object</h3>
       { "id": 1, "name": "Student 1", "course": "ICS" }
     </div>
-  </body>
-</html>
