@@ -5,20 +5,20 @@
     <div>
       <h3>The routes are as follows</h3>
       <ol>
-        <p>Get all students</p>
-        <li>/api/v1/students</li>
+       <li>Get all students</li>
+        <p>/api/v1/students</p>
         <br />
-        <p>Geta specific student</p>
-        <li>/api/v1/student/:id</li>
+        <li>Get a specific student</li>
+               <p>/api/v1/student/:id</p>
         <br />
-        <p>Edit student details</p>
-        <li>/api/v1/student/:id</li>
+        <li>Edit student details</li>
+               <p>/api/v1/student/:id</p>
         <br />
-        <p>Post student</p>
-        <li>/api/v1/students</li>
+        <li>Post student</li>
+               <p>/api/v1/students</p>
         <br />
-        <p>Delete a student</p>
-        <li>/api/v1/student/:id</li>
+        <li>Delete a student</li>
+               <p>/api/v1/student/:id</p>
       </ol>
     </div>
     <div>
